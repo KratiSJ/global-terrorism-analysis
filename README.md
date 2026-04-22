@@ -117,7 +117,7 @@ The raw Excel dataset was processed using Power Query in Power BI.
 
 ## 🖼 Dashboard Preview
 
-![Dashboard Preview](Final Dashboard image(1).PNG)
+![Dashboard Preview]([Final Dashboard image(1).PNG](https://github.com/KratiSJ/global-terrorism-analysis/blob/main/Final%20Dashboard%20image.PNG))
 
 ---
 
